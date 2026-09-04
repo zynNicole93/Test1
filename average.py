@@ -14,7 +14,7 @@ if m == 0:
 
 
 else:
-  ave = total/m
+  averagenum = total/m
   print("以上所有数字的平均数为："+ str(ave))
 
 
